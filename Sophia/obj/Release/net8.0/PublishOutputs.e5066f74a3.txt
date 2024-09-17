@@ -1,0 +1,7 @@
+/Users/marcelowens/Desktop/Web Wizardz/3_projects/C# Project/1_MVC/SophiaLoren/publish/Sophia
+/Users/marcelowens/Desktop/Web Wizardz/3_projects/C# Project/1_MVC/SophiaLoren/publish/appsettings.Development.json
+/Users/marcelowens/Desktop/Web Wizardz/3_projects/C# Project/1_MVC/SophiaLoren/publish/appsettings.json
+/Users/marcelowens/Desktop/Web Wizardz/3_projects/C# Project/1_MVC/SophiaLoren/publish/Sophia.dll
+/Users/marcelowens/Desktop/Web Wizardz/3_projects/C# Project/1_MVC/SophiaLoren/publish/Sophia.deps.json
+/Users/marcelowens/Desktop/Web Wizardz/3_projects/C# Project/1_MVC/SophiaLoren/publish/Sophia.runtimeconfig.json
+/Users/marcelowens/Desktop/Web Wizardz/3_projects/C# Project/1_MVC/SophiaLoren/publish/Sophia.pdb
